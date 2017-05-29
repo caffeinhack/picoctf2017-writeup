@@ -12,7 +12,7 @@
   
   You can get a first part of the flag.
   
-  ### 2. Check Other File.
+  ### 2. Check Other File
   You can find to more file that we you can browse named `hacker.css` and `script.js`.
   So this time, check these files.
   
