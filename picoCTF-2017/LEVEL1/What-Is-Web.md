@@ -16,15 +16,15 @@
   You can find to more file that we you can browse named `hacker.css` and `script.js`.
   So this time, check these files.
   
-  ### 3. Check `hacker.css`
+  ### 3. Check hacker.css
   Open `hacker.css` (and check source code).
   You may find the second part of the flag.
   
-  ### 4. Check `script.js`
+  ### 4. Check script.js
   Check `script.js` (and check source code).
   You may find finally part of the flag.
   
-  ### 5. Finally
+  ### 5. Get The Flag !!
   Flag is 
   > [first part of the flag] + [second part of the flag] + [third part of the flag]
   
