@@ -1,0 +1,32 @@
+# What Is Web(Web Exploit)
+
+## Question
+  > Someone told me that some guy came up with the "World Wide Web", using "HTML" and "stuff". Can you help me figure out what that is?
+  [Website](http://shell2017.picoctf.com:58191/ "What Is Web").
+  
+## Answer
+  ### 1. Open Source Code
+  Open [site](http://shell2017.picoctf.com:58191/ "What Is Web"),
+  and view site source code.  
+  (If you use `chrome` or `chromium` browser, press `ctrl + u`)  
+  
+  You can get a first part of the flag.
+  
+  ### 2. Check Other File.
+  You can find to more file that we you can browse named `hacker.css` and `script.js`.
+  So this time, check these files.
+  
+  ### 3. Check `hacker.css`
+  Open `hacker.css` (and check source code).
+  You may find the second part of the flag.
+  
+  ### 4. Check `script.js`
+  Check `script.js` (and check source code).
+  You may find finally part of the flag.
+  
+  ### 5. Finally
+  Flag is 
+  > [first part of the flag] + [second part of the flag] + [therd part of the flag]
+  
+  
+  
