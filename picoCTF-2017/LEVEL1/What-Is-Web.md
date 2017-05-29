@@ -17,12 +17,12 @@
   So this time, check these files.
   
   ### 3. Check hacker.css
-  Open `hacker.css` (and check source code).
-  You may find the second part of the flag.
+  Open `hacker.css` (and check source code).  
+  You may find the second part of the flag.  
   
   ### 4. Check script.js
-  Check `script.js` (and check source code).
-  You may find finally part of the flag.
+  Open `script.js` (and check source code).  
+  You may find finally part of the flag.  
   
   ### 5. Get The Flag !!
   Flag is 
