@@ -10,7 +10,7 @@
   and view site source code.  
   (If you use `chrome` or `chromium` browser, press `ctrl + u`)  
   
-  You can get a first part of the flag.
+  You can find a first part of the flag.
   
   ### 2. Check Other File
   You can find to more file that we you can browse named `hacker.css` and `script.js`.
