@@ -26,7 +26,7 @@
   
   ### 5. Finally
   Flag is 
-  > [first part of the flag] + [second part of the flag] + [therd part of the flag]
+  > [first part of the flag] + [second part of the flag] + [third part of the flag]
   
   
   
