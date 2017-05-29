@@ -4,7 +4,7 @@
   > Someone told me that some guy came up with the "World Wide Web", using "HTML" and "stuff". Can you help me figure out what that is?
   [Website](http://shell2017.picoctf.com:58191/ "What Is Web").
   
-## Answer
+## Solution
   ### 1. Open Source Code
   Open [site](http://shell2017.picoctf.com:58191/ "What Is Web"),
   and view site source code.  
