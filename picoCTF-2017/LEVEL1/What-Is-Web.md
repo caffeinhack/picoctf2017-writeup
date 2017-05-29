@@ -13,7 +13,7 @@
   You can find a first part of the flag.
   
   ### 2. Check Other File
-  You can find to more file that we you can browse named `hacker.css` and `script.js`.
+  You can find to more file that we you can browse named `hacker.css` and `script.js`.  
   So this time, check these files.
   
   ### 3. Check hacker.css
@@ -27,6 +27,3 @@
   ### 5. Get The Flag !!
   Flag is 
   > [first part of the flag] + [second part of the flag] + [third part of the flag]
-  
-  
-  
