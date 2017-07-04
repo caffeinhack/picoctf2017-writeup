@@ -1,4 +1,4 @@
-# Internet Kitties(MISK)
+# Internet Kitties
 
 ## Question
   > I was told there was something at IP shell2017.picoctf.com with port 28669.  
