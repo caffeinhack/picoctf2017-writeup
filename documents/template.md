@@ -8,12 +8,12 @@ Write like here !
   > question content
   
 ## Solution
-### 1. foo
+### 1. Foo
   foofoo
   
-### 2. bar
+### 2. Bar
   barbar
   
-### 3. baz
+### 3. Baz
   bazbaz
 ```
